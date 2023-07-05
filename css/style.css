@@ -1454,7 +1454,7 @@ h3 {
 .header-area .header-top_area .short_contact_list ul li a {
   font-size: 16px;
   color: #222222;
-  margin-right: 40px;
+  margin-right: 30px;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -2533,7 +2533,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/banner.jpg);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
@@ -2884,6 +2884,7 @@ h3 {
 
 /* line 25, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_reason.scss */
 .reson_area .single_reson .help_content {
+  opacity: 0.8;
   background: #fff;
   position: absolute;
   bottom: 0;
@@ -2959,7 +2960,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
 .video_bg_1 {
-  background-image: url(../img/banner/man.png);
+  background-image: url(../img/banner/yt-thumb.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
